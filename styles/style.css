@@ -171,7 +171,7 @@ body{
 
 .deal-content{
     text-align: center;
-    padding: 120px 530px 100px 530px;
+    padding: 120px 530px 50px 530px;
 
 
 }
@@ -180,6 +180,103 @@ body{
     font-size: 30px;
     font-weight: bold;
 }
+
+.end-content{
+    
+    
+    height: 30vh;
+    background-color: black;
+    padding: 40px;
+    color: white;
+    text-align: center;
+}
+
+.end-title{
+    padding-top: 20px;
+    margin-top: 100px;
+    color: #E55473;
+    text-align: center;
+    /* padding-bottom: 20px; */
+    font-size: 48px;
+
+    font-weight: 800;
+
+}
+
+.end-paragraph{
+    
+    text-align: center;
+    font-size: 20px;
+}
+
+.features{
+    margin: 300px;
+    text-align: center;
+}
+
+.features-content{
+    padding: 10px;
+
+}
+
+.features-title{
+    color: #272727;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+
+    font-weight: 800;
+
+}
+
+.features-paragraph{
+    font-size: 19px;
+}
+
+.features-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 50px;
+
+}
+
+.first{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 42px 78px;
+
+}
+
+.second{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 150px 78px 62px 78px;
+}
+
+.third{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 110px 78px 0px 78px;
+}
+
+.pic-name{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.email{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+padding: 0px 30px;
+border: none;
+
+}
+
 
 
 
