@@ -1,0 +1,184 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    };
+
+.header{
+   
+    width: 1920px;
+    height: 850px
+}
+
+.banner{
+    padding: 0px 0px 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    gap: 20px;
+    background-color: rgb(248, 224, 228);
+}
+
+.banner-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    padding-right: 0px;
+}
+
+.banner-paragraph{
+    
+     color: rgba(39, 39, 39, 0.60);
+     font-size: 18px;
+     font-weight: 400px;
+     padding-bottom: 30px;
+     font-style: normal;
+     line-height: 30px;
+   
+}
+
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+}
+
+.banner-pic{
+    width: 635px;
+    height: 800px;
+    padding-right: 150px;
+}
+
+.main{
+    
+    width: 1922px;
+    height: 620px;
+   
+
+}
+
+.class{
+    padding: 0px 0px 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    gap: 20px;
+    border-radius: 8px;
+    background-color: rgb(248, 224, 228);
+}
+
+.class-title{
+    align-items: center;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    padding-right: 0px;
+}
+
+.class-paragraph{
+    display: flex;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 30px;
+    font-style: normal;
+    line-height: 30px;
+   
+    
+}
+
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    display: inline-flex;
+    padding: 20px 43px;
+    text-align: center;
+    gap: 10px;
+    border: none;
+}
+
+
+.class-picture{
+    width: 318px;
+    height: 420px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+.banner{
+
+}
+.banner-header{
+    background-color: rgba(229, 84, 115, 0.10);
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    padding: 50px 50px 0px 50px;
+    margin-bottom: 0px;
+}
+.profile-pic{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+    align-items: 240;
+    border-right: 240;
+    
+}
+.banner > banner-one > btn-primary{
+    display: inline-flex;
+    background: #E55473;
+    padding: 20px 43px 20px 43px;
+
+} */
